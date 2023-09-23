@@ -1,6 +1,6 @@
 <h2 align="center">Olá👋, meu nome é<a href="https://github.com/marcos90s"> Marcos</a></h2>&nbsp;
 
-<p align="center">Eu amo estudar e resolver desafios para o aprimoramento contínuo de minhas habilidades técnias como desenvolvedor. <br>Me encantei de cara com a área de backend e desde então não parei de fazer cursos/intensivos para me tornar um programador melhor.<br> Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> previsto para formação em junho/2024. Passo os meu dias estudando entre 4-5h por dia e aos finais de semana gosto de passar o tempo com família, namorada e amigos.</p>&nbsp;
+<p align="center">Eu amo estudar e resolver desafios para o aprimoramento contínuo de minhas habilidades técnicas como desenvolvedor. <br>Me encantei de cara com a área de backend e desde então não parei de fazer cursos/intensivos para me tornar um programador melhor.<br> Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> previsto para formação em junho/2024. Passo os meu dias estudando entre 4-5h por dia e aos finais de semana gosto de passar o tempo com família, namorada e amigos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcos90s&theme=radical&mode=weekly" />
