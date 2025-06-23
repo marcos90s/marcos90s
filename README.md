@@ -1,6 +1,10 @@
 <h2 align="center">Olá👋, meu nome é<a href="https://github.com/marcos90s"> Marcos</a></h2>&nbsp;
 
-<p align="center">Sou apaixonado por aprender e enfrentar desafios, o que me permite desenvolver continuamente minhas habilidades técnicas como desenvolvedor.<br>Eu fiquei encantado com a área de backend desde que descobri. Desde então, tenho me dedicado muito a cursos e treinamentos para crescer como programador.<br> Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e atualmente trabalho como <strong>Desenvolvedor Web back-end</strong>, onde aplico e expando meus conhecimentos diariamente.</p>&nbsp;
+Sou um desenvolvedor back-end apaixonado por tecnologia e por transformar desafios do dia a dia em aprendizado contínuo.
+
+Atualmente, meu foco principal é no ecossistema **Java com Spring Boot**, mas sou um profissional muito adaptável e gosto de explorar novas tecnologias. Acredito que a melhor stack é aquela que resolve o problema da forma mais eficiente.
+
+Formado em **Análise e Desenvolvimento de Sistemas**, estou sempre buscando aplicar e expandir meus conhecimentos para criar soluções robustas e performáticas.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcos90s&theme=radical&mode=weekly" />
