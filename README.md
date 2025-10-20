@@ -57,7 +57,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, estou sempre buscando apl
 <a href="https://www.instagram.com/_marcoscrz" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=flat">
 </a>
 <a href = "mailto:marcosvieira90ss@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcos-vieira-193563274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/marcosarvieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
  
 
