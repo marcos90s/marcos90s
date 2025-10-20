@@ -19,14 +19,15 @@ Formado em **Análise e Desenvolvimento de Sistemas**, estou sempre buscando apl
 
 #### Linguagens e Frameworks:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=339933&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -39,24 +40,25 @@ Formado em **Análise e Desenvolvimento de Sistemas**, estou sempre buscando apl
 
 #### Workstation Tools:
 
-![Ecplise](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
 
 
 #### Ferramentas e Outros:
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
+![PM2 Badge](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff&style=flat)
+![JUnit5 Badge](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat)
+![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=flat)
 
 
 
 ## Contacts:
-
 <div> 
-<a href="https://www.instagram.com/_marcoscrz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/_marcoscrz" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=flat">
 </a>
-<a href = "mailto:marcosvieira90ss@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcosvieira90ss@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-vieira-193563274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>
  
 
   
